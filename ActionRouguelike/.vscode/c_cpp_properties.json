@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "ActionRouguelikeEditor Editor Mac Development (ActionRouguelike)",
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compileCommands": "/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/.vscode/compileCommands_ActionRouguelike.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Mac",
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compileCommands": "/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/.vscode/compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

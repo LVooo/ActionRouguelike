@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/Source/ActionRouguelike/ActionRouguelike.Build.cs",
+		"/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/Source/ActionRouguelike.Target.cs",
+		"/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/Source/ActionRouguelikeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

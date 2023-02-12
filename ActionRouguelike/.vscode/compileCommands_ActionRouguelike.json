@@ -1,0 +1,27 @@
+[
+	{
+		"file": "/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/Source/ActionRouguelike/ActionRouguelike.Build.cs",
+		"command": "/Users/liweilin/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/.vscode/compileCommands_ActionRouguelike/ActionRouguelike.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/Source/ActionRouguelike/ActionRouguelike.cpp",
+		"command": "/Users/liweilin/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/.vscode/compileCommands_ActionRouguelike/ActionRouguelike.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/Source/ActionRouguelike/ActionRouguelike.h",
+		"command": "/Users/liweilin/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/.vscode/compileCommands_ActionRouguelike/ActionRouguelike.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/Source/ActionRouguelike/ActionRouguelikeGameModeBase.cpp",
+		"command": "/Users/liweilin/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/.vscode/compileCommands_ActionRouguelike/ActionRouguelike.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/Source/ActionRouguelike/ActionRouguelikeGameModeBase.h",
+		"command": "/Users/liweilin/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/.vscode/compileCommands_ActionRouguelike/ActionRouguelike.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	}
+]

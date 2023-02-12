@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ActionRouguelike",
+			"Path": "/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/Source/ActionRouguelike.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ActionRouguelikeEditor",
+			"Path": "/Users/liweilin/Documents/GitHub/ActionRouguelike/ActionRouguelike/Source/ActionRouguelikeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
